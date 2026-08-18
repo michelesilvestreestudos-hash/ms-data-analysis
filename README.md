@@ -1,4 +1,4 @@
-# 📊 Michele Silvestre | Data Intelligence & Engineering
+<!-- # 📊 Michele Silvestre | Data Intelligence & Engineering
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%23000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -42,4 +42,7 @@ No ecossistema de Marketplace (Magalu), colaborei diretamente com times de execu
 
 ---
 📫 **Conecte-se comigo:**
-[LinkedIn](https://www.linkedin.com/in/michele-silvestre-647338164/) | [E-mail](micheleesilvestree@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/michele-silvestre-647338164/) | [E-mail](micheleesilvestree@gmail.com) -->
+
+
+![CI Python](https://github.com/michelesilvestreestudos-hash/ms-data-analysis/actions/workflows/ci.yml/badge.svg)
